@@ -14,3 +14,11 @@ Es un ejercicio corto y sirve como base para empezar el TP cuatrimestral.
 Podés encontrar la consigna en el siguiente [link].
 
 [link]: https://faq.utnso.com.ar/tp0-enunciado
+
+################################################################################################
+
+OJO ASEGURATE DE SEGUIR ESOS PASSOS !!
+
+1* PRIMERO DEBO CORRER EL SERVIDOR 
+2* CORRER EL CLIENTE
+3* Y HAY ENVIAR LOS MENSAJES Y TODO MAS
