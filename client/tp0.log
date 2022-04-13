@@ -1,0 +1,144 @@
+[INFO] 20:58:06:018 log del tp0/(14823:14823): SOY UN LOG
+[INFO] 20:58:24:910 log del tp0/(14879:14879): HOLA!SOY UN LOG
+[INFO] 21:16:54:834 log del tp0/(16465:16465): HOLA!SOY UN LOG
+[INFO] 21:22:37:509 log del tp0/(17010:17010): HOLA!SOY UN LOG
+[INFO] 21:24:06:058 log del tp0/(17194:17194): HOLA!SOY UN LOG
+[INFO] 21:24:26:018 log del tp0/(17271:17271): HOLA!SOY UN LOG
+[INFO] 21:24:26:018 log del tp0/(17271:17271): 127.0.0.1
+[INFO] 21:26:41:428 log del tp0/(17529:17529): HOLA!SOY UN LOG
+[INFO] 21:26:41:432 log del tp0/(17529:17529): 127.0.0.1
+[INFO] 21:26:41:432 log del tp0/(17529:17529): 4444
+[INFO] 21:27:30:731 log del tp0/(17650:17650): HOLA!SOY UN LOG
+[INFO] 21:27:30:736 log del tp0/(17650:17650): 127.0.0.1
+[INFO] 21:27:30:737 log del tp0/(17650:17650): 4444
+[INFO] 21:27:30:737 log del tp0/(17650:17650): °å1¬ô+1
+[INFO] 21:28:01:462 log del tp0/(17727:17727): HOLA!SOY UN LOG
+[INFO] 21:28:01:466 log del tp0/(17727:17727): 127.0.0.1
+[INFO] 21:28:01:466 log del tp0/(17727:17727): 4444
+[INFO] 21:28:01:466 log del tp0/(17727:17727): valor
+[INFO] 23:47:30:591 log del tp0/(4646:4646): HOLA!SOY UN LOG
+[INFO] 23:47:30:606 log del tp0/(4646:4646): 127.0.0.1
+[INFO] 23:47:30:606 log del tp0/(4646:4646): 4444
+[INFO] 23:47:30:606 log del tp0/(4646:4646): valor
+[INFO] 00:06:27:921 log del tp0/(6342:6342): HOLA! SOY UN LOG
+[INFO] 00:06:27:953 log del tp0/(6342:6342): lei la IP 127.0.0.1, el PUERTO 4444 y el VALOR valor 
+
+[INFO] 00:06:52:368 log del tp0/(6421:6421): HOLA! SOY UN LOG
+[INFO] 00:06:52:377 log del tp0/(6421:6421): lei la IP 127.0.0.1, el PUERTO 4444 y la CLAVE valor 
+
+[INFO] 00:07:14:272 log del tp0/(6490:6490): HOLA! SOY UN LOG
+[INFO] 00:07:14:280 log del tp0/(6490:6490): lei la IP: 127.0.0.1, el PUERTO: 4444 y la CLAVE: valor 
+
+[INFO] 00:31:41:343 log del tp0/(8640:8640): HOLA! SOY UN LOG
+[INFO] 00:31:41:344 log del tp0/(8640:8640): lei la CLAVE: valor 
+
+[INFO] 17:49:12:730 log del tp0/(13292:13292): HOLA! SOY UN LOG
+[INFO] 17:49:12:731 log del tp0/(13292:13292): lei la CLAVE: valor 
+
+[INFO] 17:49:23:127 log del tp0/(13292:13292): lei las lineas 11 
+ 
+[INFO] 17:51:16:302 log del tp0/(13292:13292): lei las lineas 6 
+ 
+[INFO] 17:51:27:044 log del tp0/(13292:13292): lei las lineas 9 
+ 
+[INFO] 17:51:44:747 log del tp0/(13292:13292): lei las lineas 27 
+ 
+[INFO] 10:03:49:406 log del tp0/(26863:26863): HOLA! SOY UN LOG
+[INFO] 10:03:49:426 log del tp0/(26863:26863): lei la CLAVE: valor 
+
+[INFO] 10:04:00:684 log del tp0/(26863:26863): lei las lineas 9 
+ 
+[INFO] 10:05:09:242 log del tp0/(27045:27045): HOLA! SOY UN LOG
+[INFO] 10:05:09:251 log del tp0/(27045:27045): lei la CLAVE: valor 
+
+[INFO] 10:05:18:373 log del tp0/(27045:27045): lei las lineas 5 
+ 
+[INFO] 10:05:18:374 log del tp0/(27045:27045): el valor ingresado es hola
+[INFO] 10:12:09:500 log del tp0/(28038:28038): HOLA! SOY UN LOG
+[INFO] 10:12:09:528 log del tp0/(28038:28038): lei la CLAVE: valor 
+
+[INFO] 10:13:13:559 log del tp0/(28150:28150): HOLA! SOY UN LOG
+[INFO] 10:13:13:579 log del tp0/(28150:28150): lei la CLAVE: valor 
+
+[INFO] 10:13:20:872 log del tp0/(28150:28150): hola buen dia
+[INFO] 10:13:20:872 log del tp0/(28150:28150): tamanio lineas 14
+[INFO] 10:30:30:053 log del tp0/(29907:29907): HOLA! SOY UN LOG
+[INFO] 10:30:30:054 log del tp0/(29907:29907): lei la CLAVE: valor 
+
+[INFO] 10:30:36:562 log del tp0/(29907:29907): hola
+[INFO] 10:30:36:564 log del tp0/(29907:29907): tamanio lineas 5
+[INFO] 22:19:01:668 log del tp0/(19084:19084): HOLA! SOY UN LOG
+[INFO] 22:19:01:683 log del tp0/(19084:19084): lei la CLAVE: valor 
+
+[INFO] 22:19:09:009 log del tp0/(19084:19084): hola buen dia
+[INFO] 22:19:09:010 log del tp0/(19084:19084): tamanio lineas 14
+[INFO] 22:21:03:275 log del tp0/(19184:19184): HOLA! SOY UN LOG
+[INFO] 22:21:03:285 log del tp0/(19184:19184): lei la CLAVE: valor 
+
+[INFO] 22:21:09:657 log del tp0/(19184:19184): hola boa noite
+[INFO] 22:21:09:657 log del tp0/(19184:19184): tamanio lineas 15
+[INFO] 22:21:16:372 log del tp0/(19184:19184): oi bom dia
+[INFO] 22:21:16:372 log del tp0/(19184:19184): tamanio lineas 11
+[INFO] 22:23:37:311 log del tp0/(19346:19346): HOLA! SOY UN LOG
+[INFO] 22:23:37:311 log del tp0/(19346:19346): lei la CLAVE: valor 
+
+[INFO] 22:23:43:103 log del tp0/(19346:19346): oi bom dia
+[INFO] 22:23:43:104 log del tp0/(19346:19346): tamanio lineas 11
+[INFO] 22:24:23:477 log del tp0/(19417:19417): HOLA! SOY UN LOG
+[INFO] 22:24:23:477 log del tp0/(19417:19417): lei la CLAVE: valor 
+
+[INFO] 22:25:52:892 log del tp0/(19537:19537): HOLA! SOY UN LOG
+[INFO] 22:25:52:893 log del tp0/(19537:19537): lei la CLAVE: valor 
+
+[INFO] 22:26:44:218 log del tp0/(19537:19537): hola bom dia
+[INFO] 22:27:00:355 log del tp0/(19537:19537): tamanio lineas 13
+[INFO] 22:34:51:304 log del tp0/(19996:19996): HOLA! SOY UN LOG
+[INFO] 22:34:51:311 log del tp0/(19996:19996): lei la CLAVE: valor 
+
+[INFO] 22:34:55:226 log del tp0/(19996:19996): hola bom dia
+[INFO] 22:34:55:226 log del tp0/(19996:19996): tamanio lineas 13
+[INFO] 22:35:01:967 log del tp0/(19996:19996): hola
+[INFO] 22:35:01:968 log del tp0/(19996:19996): tamanio lineas 5
+[INFO] 22:35:24:191 log del tp0/(20047:20047): HOLA! SOY UN LOG
+[INFO] 22:35:24:192 log del tp0/(20047:20047): lei la CLAVE: valor 
+
+[INFO] 22:36:03:929 log del tp0/(20047:20047): hola
+[INFO] 22:36:17:594 log del tp0/(20047:20047): tamanio lineas 5
+[INFO] 22:36:43:151 log del tp0/(20129:20129): HOLA! SOY UN LOG
+[INFO] 22:36:43:155 log del tp0/(20129:20129): lei la CLAVE: valor 
+
+[INFO] 22:36:46:094 log del tp0/(20129:20129): h
+[INFO] 22:36:46:094 log del tp0/(20129:20129): tamanio lineas 2
+[INFO] 22:36:52:941 log del tp0/(20129:20129): 
+[INFO] 22:36:52:941 log del tp0/(20129:20129): tamanio lineas 1
+[INFO] 22:47:07:437 log del tp0/(20597:20597): HOLA! SOY UN LOG
+[INFO] 22:47:07:437 log del tp0/(20597:20597): lei la CLAVE: valor 
+
+[INFO] 22:48:32:573 log del tp0/(20597:20597): 
+[INFO] 22:52:23:397 log del tp0/(20943:20943): HOLA! SOY UN LOG
+[INFO] 22:52:23:398 log del tp0/(20943:20943): lei la CLAVE: valor 
+
+[INFO] 22:52:25:728 log del tp0/(20943:20943): 
+[INFO] 22:52:25:729 log del tp0/(20943:20943): tamanio lineas 1
+[INFO] 00:04:38:856 log del tp0/(24323:24323): HOLA! SOY UN LOG
+[INFO] 00:04:38:863 log del tp0/(24323:24323): lei la CLAVE: valor 
+
+[INFO] 00:04:41:241 log del tp0/(24323:24323): hola
+[INFO] 00:04:46:053 log del tp0/(24323:24323): bom dia
+[INFO] 00:12:19:398 log del tp0/(24816:24816): HOLA! SOY UN LOG
+[INFO] 00:12:21:120 log del tp0/(24816:24816): lei la CLAVE: valor 
+
+[INFO] 01:24:27:717 log del tp0/(28279:28279): HOLA! SOY UN LOG
+[INFO] 01:24:27:752 log del tp0/(28279:28279): lei la CLAVE: valor 
+
+[INFO] 01:24:27:752 log del tp0/(28279:28279): 4444
+[INFO] 01:24:27:752 log del tp0/(28279:28279): 127.0.0.1
+[INFO] 01:26:28:971 log del tp0/(28398:28398): HOLA! SOY UN LOG
+[INFO] 01:26:38:262 log del tp0/(28398:28398): lei la CLAVE: valor 
+
+[INFO] 01:26:38:527 log del tp0/(28398:28398): 4444
+[INFO] 01:26:38:812 log del tp0/(28398:28398): 127.0.0.1
+[INFO] 01:26:50:701 log del tp0/(28398:28398): h
+[INFO] 01:32:48:539 log del tp0/(28795:28795): HOLA! SOY UN LOG
+[INFO] 01:32:48:540 log del tp0/(28795:28795): lei la CLAVE: (null) 
+

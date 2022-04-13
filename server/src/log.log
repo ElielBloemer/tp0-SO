@@ -1,0 +1,54 @@
+[INFO] 22:04:15:974 Servidor/(18223:18223): Servidor listo para recibir al cliente
+[INFO] 22:15:50:360 Servidor/(18772:18772): Servidor listo para recibir al cliente
+[INFO] 00:49:32:260 Servidor/(26577:26577): Servidor listo para recibir al cliente
+[INFO] 00:51:40:755 Servidor/(26676:26676): Servidor listo para recibir al cliente
+[INFO] 00:57:19:964 Servidor/(26946:26946): Servidor listo para recibir al cliente
+[INFO] 08:16:17:799 Servidor/(30782:30782): Servidor listo para recibir al cliente
+[INFO] 08:30:08:384 Servidor/(30782:30782): Se conecto un cliente!
+[INFO] 08:30:08:385 Servidor/(30782:30782): Me llego el mensaje valor
+[INFO] 08:30:25:033 Servidor/(30782:30782): Me llegaron los siguientes valores:
+
+[INFO] 08:30:25:033 Servidor/(30782:30782): bom dia tudo bem com voce
+[INFO] 08:30:25:033 Servidor/(30782:30782): Me llego el mensaje valor
+[ERROR] 08:30:25:033 Servidor/(30782:30782): el cliente se desconecto. Terminando servidor
+[INFO] 08:32:27:146 Servidor/(31678:31678): Servidor listo para recibir al cliente
+[INFO] 08:32:45:320 Servidor/(31678:31678): Se conecto un cliente!
+[INFO] 08:32:45:322 Servidor/(31678:31678): Me llego el mensaje: valor
+[INFO] 08:32:57:117 Servidor/(31678:31678): Me llegaron los siguientes valores:
+
+[INFO] 08:32:57:118 Servidor/(31678:31678): que tal
+[ERROR] 08:32:57:119 Servidor/(31678:31678): el cliente se desconecto. Terminando servidor
+[INFO] 08:33:36:753 Servidor/(31744:31744): Servidor listo para recibir al cliente
+[INFO] 08:34:03:631 Servidor/(31744:31744): Se conecto un cliente!
+[INFO] 08:34:03:632 Servidor/(31744:31744): Me llego el mensaje: valor
+[ERROR] 08:43:46:987 Servidor/(31744:31744): el cliente se desconecto. Terminando servidor
+[INFO] 08:49:06:155 Servidor/(32608:32608): Servidor listo para recibir al cliente
+[INFO] 08:49:14:348 Servidor/(32608:32608): Se conecto un cliente!
+[INFO] 08:49:14:349 Servidor/(32608:32608): Me llego el mensaje: valor
+[ERROR] 08:49:59:787 Servidor/(32608:32608): el cliente se desconecto. Terminando servidor
+[INFO] 08:50:11:044 Servidor/(32754:32754): Servidor listo para recibir al cliente
+[INFO] 08:50:16:118 Servidor/(32754:32754): Se conecto un cliente!
+[INFO] 08:50:16:118 Servidor/(32754:32754): Me llego el mensaje: valor
+[INFO] 08:54:21:101 Servidor/(32754:32754): Me llegaron los siguientes valores:
+
+[INFO] 08:54:21:103 Servidor/(32754:32754): HOLA BOM DIA
+[INFO] 08:54:21:103 Servidor/(32754:32754): TUDO BOM VOCE
+[INFO] 08:54:21:103 Servidor/(32754:32754): ESPERO QUE SIM
+[INFO] 08:54:21:105 Servidor/(32754:32754): ADEUS
+[ERROR] 08:54:21:106 Servidor/(32754:32754): el cliente se desconecto. Terminando servidor
+[INFO] 08:56:56:176 Servidor/(695:695): Servidor listo para recibir al cliente
+[INFO] 08:57:13:914 Servidor/(695:695): Se conecto un cliente!
+[INFO] 08:57:13:915 Servidor/(695:695): Me llego el mensaje: valor
+[INFO] 08:57:34:864 Servidor/(695:695): Me llegaron los siguientes valores:
+
+[INFO] 08:57:34:866 Servidor/(695:695): hola bom dia
+[INFO] 08:57:34:870 Servidor/(695:695): tudo bem com voce
+[ERROR] 08:57:34:873 Servidor/(695:695): el cliente se desconecto. Terminando servidor
+[INFO] 09:33:36:355 Servidor/(3120:3120): Servidor listo para recibir al cliente
+[INFO] 09:34:09:502 Servidor/(3120:3120): Se conecto un cliente!
+[INFO] 09:34:09:503 Servidor/(3120:3120): Me llego el mensaje: valor
+[INFO] 09:34:25:149 Servidor/(3120:3120): Me llegaron los siguientes valores:
+
+[INFO] 09:34:25:155 Servidor/(3120:3120): bom dia tudo bem com voce
+[INFO] 09:34:25:157 Servidor/(3120:3120): adeus
+[ERROR] 09:34:25:159 Servidor/(3120:3120): el cliente se desconecto. Terminando servidor
