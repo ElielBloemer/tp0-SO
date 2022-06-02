@@ -22,3 +22,15 @@ OJO ASEGURATE DE SEGUIR ESOS PASSOS !!
 1* PRIMERO DEBO CORRER EL SERVIDOR
 2* CORRER EL CLIENTE
 3* Y HAY ENVIAR LOS MENSAJES Y TODO MAS
+
+
+funcoes importantes para hilos 
+     
+	 cada proceso es un hilo?
+	 
+	 # crea un hilo
+  pthread_create(&hiloASerUsado,No se,funcaoAEjecutar,&ParametroDeLaFuncion);
+      
+	 # espero el hilo ser terminado para finalizar el programa 
+  pthread_join(hiloASerUsado,parametroDeRetorno);
+  
